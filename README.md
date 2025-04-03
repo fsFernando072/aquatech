@@ -1,4 +1,4 @@
-# aquatech
+# Aquatech
 <p> Um exercício feito por Fernando Ferreira da SPTech, para a disciplina de PI - Projeto e Inovação. </p>
 
 ## Índice
